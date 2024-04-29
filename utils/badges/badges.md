@@ -709,10 +709,18 @@
   <tbody align="left">
     <tr>
       <td>
+        <img align="center" alt="Google Colab" src="https://img.shields.io/badge/google_colab-000.svg?style=for-the-badge&logo=googlecolab&logoColor=orange&logoSize=auto&labelColor=black&color=black">
+      </td>
+      <td>
+        <code>![GoogleColab](https://img.shields.io/badge/google_colab-000.svg?style=for-the-badge&logo=googlecolab&logoColor=orange&logoSize=auto&labelColor=black&color=black)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase">
       </td>
       <td>
-        <code>![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)</code>
+        <code>![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)</code>
       </td>
     </tr>
      <tr>
@@ -903,6 +911,54 @@
     </tr>
   </thead>
   <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="Static Badge" src="https://img.shields.io/badge/KUBERNETES-blue?style=for-the-badge&logo=kubernetes&logoColor=white">
+      </td>
+      <td>
+        <code>![Kubernetes](https://img.shields.io/badge/KUBERNETES-blue?style=for-the-badge&logo=kubernetes&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Docker" src="https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white">
+      </td>
+      <td>
+        <code>![Docker](https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Code::Blocks" src="https://img.shields.io/badge/CODE%3A%3ABLOCKS-red?style=for-the-badge&logo=codeblocks&logoColor=white">
+      </td>
+      <td>
+        <code>![Code::Blocks](https://img.shields.io/badge/CODE%3A%3ABLOCKS-red?style=for-the-badge&logo=codeblocks&logoColor=white)</code>
+      </td>
+    <tr>
+    <tr>
+      <td>
+        <img align="center" alt="HTTPIE" src="https://img.shields.io/badge/HTTPIE-000.svg?style=for-the-badge&logo=httpie&logoColor=white">
+      </td>
+      <td>
+        <code>![HTTPIE](https://img.shields.io/badge/HTTPIE-000.svg?style=for-the-badge&logo=httpie&logoColor=white)</code>
+      </td>
+    <tr>
+    <tr>
+      <td>
+        <img align="center" alt="Apache Netbeans" src="https://img.shields.io/badge/apache_netbeans-9ACD32?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
+      </td>
+      <td>
+      <code>![Apache Netbeans](https://img.shields.io/badge/apache_netbeans-9ACD32?style=for-the-badge&logo=apachenetbeanside&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/intelliJ_idea-007ACC?style=for-the-badge&logo=intellijidea&logoColor=white">
+      </td>
+      <td>
+        <code>![IntelliJ IDEA](https://img.shields.io/badge/intelliJ_idea-007ACC?style=for-the-badge&logo=intellijidea&logoColor=white)</code>
+      </td>
+    </tr>
     <tr>
       <td>
         <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
